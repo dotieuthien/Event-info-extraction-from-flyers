@@ -44,6 +44,6 @@ Subsequently, there are two way to run the system. First, you can use the GUI by
 
 ## Team members
 
-* **Do Tieu Thien** - *Leader*, *Pre-processing*
-* **Nguyen Chinh Thuy** - *Text Detection*, *Algorithm improvement*
-* **Le Van Hoang Phuong** - *Post-processing*, *Tesseract-OCR*
+* [Do Tieu Thien](https://github.com/dotieuthien) - *Leader*, *Pre-processing*
+* [Nguyen Chinh Thuy](https://github.com/AntiAegis) - *Text Detection*, *Algorithm improvement*
+* [Le Van Hoang Phuong](https://github.com/RykerLe) - *Post-processing*, *Tesseract-OCR*
